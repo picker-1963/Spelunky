@@ -208,4 +208,4 @@ Spelunky is offered as a full free version with all features and updates include
 Start your adventure today with **Spelunky**! Download now and uncover the treasures waiting for you in the depths of the caves!
 
 ---
-**Last updated:** 2026-11-04 08:56:44 UTC
+**Last updated:** 2026-11-04 16:58:32 UTC
